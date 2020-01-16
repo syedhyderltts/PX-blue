@@ -1,0 +1,16 @@
+
+  .blue {color:  #004b9e;}
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item .notification {padding-right:0 ;}
+  .blue-bg { background:  #004b9e; color: white;}
+  .red-bg{ background: #c2130e; color: white;}
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item .header-content {margin: 12px 0; line-height: 22px;}
+.menu-icon svg {color: white;}
+.red-color{ color:  #c2130e;}
+.MuiGrid-item .header-content {margin: 12px 0; line-height: 22px}
+.temperature-num { font-size: 20px; margin-top: 3px; margin-bottom: 4px;}
+.temperature-icon {font-size: 34px }
+.temperature {text-align: center;}
+.footer {    padding: 8px;    border-top: 1px solid #e2dcdc;  }
+  
+.title {padding-left: 16px }
+  
